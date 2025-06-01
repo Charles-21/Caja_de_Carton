@@ -1,0 +1,15 @@
+1.- Clonar un repositorio:
+	git clone (link https del repositorio)
+
+
+2.- Subir cambios a un repositorios:
+	git status
+	git add .
+	git commit -m "comentario sobre los cambios"
+	git push origin main
+
+3.- Para jalar actualizaciones:
+	git status
+	git checkout main (por si no estas en la rama main)
+	git pull origin main
+
