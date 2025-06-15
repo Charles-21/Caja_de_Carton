@@ -1,0 +1,217 @@
+## 1. CUADRO
+
+El cuadro es la estructura principal de la bicicleta, y muchas de sus características determinan la geometría, el uso y la sensación de manejo.
+
+### Tubo de dirección
+
+Existen dos tipos principales:
+
+- **Recto (straight):** mismo diámetro en la parte superior e inferior (usualmente 1 1/8").
+    
+- **Cónico (tapered):** más delgado arriba (1 1/8") y más ancho abajo (1.5"), lo que mejora la rigidez y estabilidad.
+    
+
+El **ángulo del tubo de dirección** es el que forma este tubo con el suelo. Es un factor clave en la geometría:
+
+- Ángulos **más verticales** (70°–73°) se usan en bicis de ruta o cross-country. Favorecen la agilidad y la eficiencia al subir.
+    
+- Ángulos **más lanzados** (62°–66°) se encuentran en bicis de enduro o downhill. Brindan mayor estabilidad en bajadas técnicas y terrenos difíciles.
+    
+
+### Ángulo del tubo del asiento
+
+Este ángulo también influye mucho en la posición y el pedaleo:
+
+- Ángulo **empinado** (75°–78°): posiciona al ciclista sobre el eje de centro, lo que mejora la eficiencia en subidas.
+    
+- Ángulo **más relajado** (70°–73°): resulta más cómodo para rutas largas o bajadas prolongadas.
+    
+
+### Vainas traseras (chainstays)
+
+La longitud de las vainas influye en la respuesta al pedalear:
+
+- **Vainas cortas:** mayor reactividad, mejor aceleración.
+    
+- **Vainas largas:** mayor estabilidad, especialmente con ruedas grandes o carga.
+    
+
+### Medidas Boost
+
+Las medidas Boost son estándares más anchos en el cuadro y la horquilla para el montaje de ruedas:
+
+- **Boost delantero:** 110 mm
+    
+- **Boost trasero:** 148 mm
+    
+
+Esto permite un ángulo más favorable de los radios, mejora la rigidez y permite usar llantas más anchas.
+
+### Compatibilidad con suspensiones
+
+No todos los cuadros están diseñados para cualquier recorrido de suspensión. Algunos están limitados a un máximo de 100–120 mm, mientras que otros permiten recorridos mayores (140 mm o más) para uso más agresivo.
+
+### Sistemas de eje
+
+- **Quick Release (QR):** eje hueco con palanca. Ligero y fácil de quitar, pero menos rígido.
+    
+- **Eje pasante (thru axle):** barra sólida que se enrosca al cuadro o la horquilla. Más rígido, ideal para bicicletas con frenos de disco y uso agresivo.
+    
+
+### Otros detalles
+
+- **Cableado interno:** mejora la estética y protege los cables.
+    
+- **Cuadros recomendables:** Specialized Chisel, Trek Roscoe, Santa Cruz (varios modelos).
+    
+
+---
+
+## 2. TRANSMISIÓN (DRIVETRAIN)
+
+La transmisión es el sistema que convierte el pedaleo en movimiento. Se compone de:
+
+- **Desviador trasero (derailleur):** puede incluir **clutch** para evitar que la cadena rebote y se salga.
+    
+- **Palancas de cambio (shifter).**
+    
+- **Cassette:** conjunto de engranes traseros. Hay cassettes de 9, 10, 11 o 12 velocidades, con relaciones comunes como 11–46, 11–50 o incluso 10–52.
+    
+- **Plato delantero (o monoplato):** incluye la estrella y las bielas. Puede tener 30, 32, 34 o más dientes. Los ejes huecos son más ligeros.
+    
+- **Cadena.**
+    
+- **Bottom bracket (eje de centro):** conecta las bielas con el cuadro.
+    
+- **Guía de cadena:** evita que la cadena se salga, especialmente en uso intenso.
+    
+
+No todas las rodadas necesitan 1×12. Por ejemplo, en bicicletas rodado 26, puede convenir un grupo 2×9 para mejor rango con menos peso en la rueda trasera.
+
+### Marcas recomendadas:
+
+- **Shimano:** Deore en adelante (SLX, XT, XTR).
+    
+- **SRAM:** GX en adelante (X01, XX1).
+    
+
+---
+
+## 3. POSTERIOR / COMPONENTES DE CONTROL
+
+### Manubrio
+
+Tiene dos características principales:
+
+- **Anchura:** los de XC suelen ser más angostos (680–720 mm), mientras que los de enduro y trail son más anchos (760–800 mm).
+    
+- **Altura (rise):** puede ser de 0 mm (plano), 15, 25, 35 o 40 mm. Más rise da más control en bajadas.
+    
+
+Existen manubrios **integrados** (manubrio y potencia en una sola pieza) que ofrecen mayor rigidez y estética.
+
+### Potencia
+
+Es la pieza que une el manubrio con el tubo de dirección. Tiene:
+
+- **Diámetro:** Over (31.8 mm), Super Over (35 mm).
+    
+- **Longitud e inclinación:** una potencia con inclinación positiva ayuda en bajadas técnicas; una negativa baja el manubrio y mejora el rendimiento en subidas.
+    
+
+### Asiento y tija
+
+- Existen **tijas telescópicas** (dropper post) que permiten cambiar la altura del asiento en marcha, ideal para enduro y trail.
+    
+- **Asientos estáticos** son más simples y ligeros.
+    
+
+### Pedales
+
+- **Plataforma:** ofrecen buen control en descensos y son recomendados para enduro o trail.
+    
+- **Clipless:** más eficientes al pedalear, recomendados en XC.
+    
+
+Si es posible usar **componentes de carbono**, se gana rigidez con menor peso.
+
+---
+
+## 4. RUEDAS
+
+### Llantas
+
+- **Tubeless:** permiten rodar con menos presión sin riesgo de pinchazos por pellizco.
+    
+- **Con alambre:** más económicas y rígidas.
+    
+- **Plegables (kevlar):** más ligeras, fácil de transportar.
+    
+
+Una bici con llanta trasera más pequeña que la delantera se llama **mullet**. Esta configuración mejora la agilidad trasera y la estabilidad delantera.
+
+### Rines
+
+Pueden tener **28 o 32 radios**, dependiendo del uso (más radios = más resistencia).
+
+### Masas
+
+Son los centros de las ruedas. Algunas tienen trinquetes ruidosos (ratchet system) que producen un sonido fuerte y agradable al rodar.
+
+### Marcas recomendadas:
+
+Maxxis, Bontrager, Specialized, AlexRims.
+
+---
+
+## 5. SUSPENSIÓN
+
+El **recorrido de la suspensión** define el tipo de uso:
+
+- **XC:** 100–120 mm
+    
+- **Trail:** 120–140 mm
+    
+- **Enduro:** 150–170 mm
+    
+- **Downhill:** 180 mm o más
+    
+
+### Tipos:
+
+- **Resorte:** más pesadas, muy duraderas, uso en downhill.
+    
+- **Hidráulicas:** combinación de resorte con amortiguación por aceite.
+    
+- **Aire:** más ligeras, ajustables y comunes en gamas medias y altas.
+    
+
+Pueden incluir **bloqueo remoto** desde el manubrio y **ajuste de rebote** o compresión.
+
+### Marcas recomendadas:
+
+RockShox, Fox, Marzocchi.
+
+---
+
+## 6. FRENOS
+
+Los frenos se clasifican en:
+
+- **V-Brake:** económicos, solo para bicis urbanas o XC ligeras.
+    
+- **Disco mecánico:** mejor frenado, pero menor respuesta que los hidráulicos.
+    
+- **Disco hidráulico:** los mejores en potencia y precisión.
+    
+
+El **diámetro de los rotores** también importa:
+
+- Más grandes (180 mm o más) ofrecen mejor frenado y disipación del calor.
+    
+- En bicis de enduro y downhill se recomiendan rotores de 200 mm.
+    
+
+### Frenos recomendados:
+
+- **SRAM Maven:** alto rendimiento, respuesta excepcional.
