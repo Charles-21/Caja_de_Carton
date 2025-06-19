@@ -39,6 +39,8 @@ Encontré unos links para cursos de Alibaba. En mi tiempo libre puedo sacar un c
 https://www.alibabacloud.com/en/developer/students?_p_lc=1
 https://edu.alibabacloud.com/certification/clouders?spm=a3c0i.28067893.2957395390.14.1ebf47bdvnQrVo
 
+Esta página te ilustra lo que es un servidor
+https://limac.com.mx/servidores-virtuales/
 
 
 
