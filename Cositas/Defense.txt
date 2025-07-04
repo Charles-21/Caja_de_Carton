@@ -1,0 +1,44 @@
+Practica ésto para que no te tuerzan los chinos
+
+
+**Greetings**
+
+Good morning, everyone. It’s a pleasure to meet you — I hope you’re all doing well.  _(insert friendly smile or tone here)_
+
+I’ll go ahead and share my screen so you can follow along with the presentation.  
+Let me know once you can see it — could someone please confirm?
+
+My name is Charles, and as you may already know, I have been working here for the past two months.
+
+Today I’m excited to share with you a brief overview of what I have done during my probation period, what I’ve learned, and how I intend to keep contributing to our team’s growth.
+
+---
+**Self introduction**
+
+As I said before, my name is Charles, and I belong to the Axolotl team, based in Mexico City.
+
+I completed a Bachelor’s Degree in Physics and Mathematics.
+Previously, I worked as a **teaching assistant** at my university, delivering lessons in **astrophysics** and **advanced mathematics**. I also worked as a **metrology apprentice** in a **calibration lab specialized in scales and balances**, where I learned the importance of precision and rigorous standards.
+ 
+I’ve also gained valuable experience in **customer service**, having worked in my family’s coffee shop since I was a child. That role helped me develop empathy, communication skills, and a sense of responsibility toward others.
+ 
+On the technical side, I’m confident working with programming languages such as **Python**, **Julia**, and **Fortran**, and I’m very comfortable using **Linux environments**, especially Debian and Fedora.
+ 
+I’ve also worked with **data analysis and business tools**, including **Power BI**, **Power Apps**, and **Power Automate**, developing internal tools and automated workflows.
+ 
+In addition, I have experience in **scientific computing**, particularly in **numerical simulations** and **differential equation modeling**, which has helped me build efficient, data-driven solutions.
+
+I believe this combination of **scientific training**, **technical skills**, and **hands-on customer experience** allows me to approach problems with both a logical mindset and a strong focus on people’s needs.
+
+---
+**Personal Action Plan about performance improvement or maintenance in future**
+
+In this section, I’d like to share some of the actions I plan to take in order to improve and maintain high performance moving forward.
+
+First, I want to focus on refining my communication skills — especially in writing — to ensure that customers feel truly supported, understood, and valued. I will be studying what makes a message not only informative, but also empathetic and reassuring.
+
+I also intend to go deeper into the official documentation, and review past tickets to identify areas where I can improve my approach or better understand cases I haven’t encountered yet.
+
+Another key point is staying in close contact with my supervisor to understand the team’s priorities, and to be available where I’m most needed. For example, if data shows a pattern of high ticket volume at specific times, I’d be willing to adjust my schedule accordingly to better support the team.
+
+Finally, I’ll stay flexible and open to feedback, always ready to adapt to any new challenges or improvements the team needs.
