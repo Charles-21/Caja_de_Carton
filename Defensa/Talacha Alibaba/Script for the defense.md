@@ -1,13 +1,12 @@
-SCRIPT FOR THE DEFENSE
 
 **Greetings**
 
-Good morning, everyone. It’s a pleasure to meet you — I hope you’re all doing well.  _(insert friendly smile or tone here)_
+Good morning, everyone. It’s a pleasure to meet you — I hope you’re all doing well.
 
-I’ll go ahead and share my screen so you can follow along with the presentation.  
-Let me know once you can see it — could someone please confirm?
+I’ll and share my screen so you can follow my presentation.  
+Let me know once you can see it, please — could someone please confirm?
 
-My name is Charles, and as you may already know, I have been working here for the past two months.
+My name is Charles, and as you may already know, I have been working here over the past two months.
 
 Today I’m excited to share with you a brief overview of what I have done during my probation period, what I’ve learned, and how I intend to keep contributing to our team’s growth.
 
@@ -28,19 +27,6 @@ I’ve also worked with **data analysis and business tools**, including **Power 
 In addition, I have experience in **scientific computing**, particularly in **numerical simulations** and **differential equation modeling**, which has helped me build efficient, data-driven solutions.
 
 I believe this combination of **scientific training**, **technical skills**, and **hands-on customer experience** allows me to approach problems with both a logical mindset and a strong focus on people’s needs.
-
----
-**Personal Action Plan about performance improvement or maintenance in future**
-
-In this section, I’d like to share some of the actions I plan to take in order to improve and maintain high performance moving forward.
-
-First, I want to focus on refining my communication skills — especially in writing — to ensure that customers feel truly supported, understood, and valued. I will be studying what makes a message not only informative, but also empathetic and reassuring.
-
-I also intend to go deeper into the official documentation, and review past tickets to identify areas where I can improve my approach or better understand cases I haven’t encountered yet.
-
-Another key point is staying in close contact with my supervisor to understand the team’s priorities, and to be available where I’m most needed. For example, if data shows a pattern of high ticket volume at specific times, I’d be willing to adjust my schedule accordingly to better support the team.
-
-Finally, I’ll stay flexible and open to feedback, always ready to adapt to any new challenges or improvements the team needs.
 
 ---
 **Personal KPI result during the probation period**
@@ -98,8 +84,36 @@ Shortly after, the customer expressed their gratitude, closed the ticket, and le
 From both of these experiences, I learned the importance of providing accurate, well-sourced information, and of choosing the right words to make the customer feel heard, supported, and well attended.
 
 ---
+**Personal Action Plan about performance improvement or maintenance in future**
+
+In this section, I’d like to share some of the actions I plan to take in order to improve and maintain high performance moving forward.
+
+First, I want to focus on refining my communication skills — especially in writing — to ensure that customers feel truly supported, understood, and valued. I will be studying what makes a message not only informative, but also empathetic and reassuring.
+
+I also intend to go deeper into the official documentation, and review past tickets to identify areas where I can improve my approach or better understand cases I haven’t encountered yet.
+
+Another key point is staying in close contact with my supervisor to understand the team’s priorities, and to be available where I’m most needed. For example, if data shows a pattern of high ticket volume at specific times, I’d be willing to adjust my schedule accordingly to better support the team.
+
+Finally, I’ll stay flexible and open to feedback, always ready to adapt to any new challenges or improvements the team needs.
+
+---
 **Finish**
 
 That concludes my presentation. Thank you very much for your time. I’m open to any suggestions or questions you might have.
 
+----
+# Repaso pre-defensa
+
+
+Preguntas que le hicieron a Frank
+1. ¿Tipos de pago?
+	Pay as you go y suscripción
+2. ¿Métodos de pago?  
+	Bank card (Visa, mastercard, american express y JCB), Paypal y prepayment.
+3. ¿Qué es y para qué sirve la Real-name verification?
+	It is needed for purchasing cloud services that are in Mainland China
+4. ¿Qué es ECS?
+5. ¿Qué es SaS?
+
+Checa en qué la cagaste en los checkpints y checa la documentaición.
 

@@ -3,6 +3,9 @@ En estas notes anotaré las cosas que no necesariamente son de la tesis pero que
 ----------------------------------------------------------------------------------------------------------------------------------
 Vídeos que me salen en el jale pero que no puedo compartir porque si no me tuercen
 
+https://www.youtube.com/watch?v=DBkM-JY4DqI
+https://www.youtube.com/watch?v=jorZX6nPC64
+
 https://www.youtube.com/watch?v=_YbGWoUaZg0
 https://www.youtube.com/watch?v=gqtrNXdlraM
 https://www.youtube.com/@ScienceClicEN
@@ -19,19 +22,8 @@ Recuerda que hay todo un bonus track del album insurgentes
 ------------------------------------------------------------------------------------------------------------------
 
 ----------03/JUNIO/2025--------------
-Whish list:
-
-Botas impermeables (en estas épocas de lluvia, me sirven más que unos tenis)
-Porta ánforas para mi bici
-Mochila impermeable
-Playeras
-Pantalones
-Impermeable de vans
-Reloj
-
 Entoncré el reloj de la hora marcada! https://www.ebay.com/itm/135097474724
-Un lanyard chido encontrado en mercado libre:
- https://articulo.mercadolibre.com.mx/MLM-3055525622-yoyo-para-gafete-lanyard-porta-credenciales-cordones-cinta-_JM?searchVariation=182693474697&highlight=true&headerTopBrand=false#reviews
+
 
 ------------19/JUNIO/2025-----------------------
 Encontré unos links para cursos de Alibaba. En mi tiempo libre puedo sacar un curso alv.
@@ -41,51 +33,4 @@ https://edu.alibabacloud.com/certification/clouders?spm=a3c0i.28067893.295739539
 
 Esta página te ilustra lo que es un servidor
 https://limac.com.mx/servidores-virtuales/
-
-Aquí está la tarea de chisu:
-https://www.overleaf.com/project/6856f848d556d24b02d66073
-Envío este link por cualquier cosa
-
-
-TAREA DEL JALE:
-practicar lo siguiente:
-
-
-
-
-**Greetings**
-
-My name is Charles, and I’ve had the pleasure of working here over the past few months.  
-I’m excited to share with you a brief overview of what I’ve accomplished during my probation period, what I’ve learned, and how I plan to continue contributing to our team’s growth.
-
-So, let me begin.
-
----
-**Self introduction**
-
-As I said before, my name is Charles, and I belong to the Spider team, based in Los Mochis, Mexico.
-
-I completed a Bachelor’s Degree in Physics and Mathematics.  
-Previously, I worked as a **teaching assistant** at university level, and as a **metrology apprentice** in a **calibration lab specialized in scales and balances**.
-
-These experiences gave me a solid foundation in analytical thinking, attention to detail, and technical precision.
-
-In terms of technical skills, I’m confident working with programming languages like **Python**, **Julia**, and **Fortran**, and I’m very comfortable using **Linux environments**, especially Debian and Fedora.
-
-I also have experience with **data analysis tools** like Power BI, and I’ve been working with the **Power Platform**, including **Power Apps** and **Power Automate**, to develop automation flows and internal tools.
-
-I believe this combination of scientific training, programming knowledge, and practical experience with business tools allows me to approach problems from both a logical and user-focused perspective.
-
----
-**Personal Action Plan about performance improvement or maintenance in future**
-
-In this section, I’d like to share some of the actions I plan to take in order to improve and maintain high performance moving forward.
-
-First, I want to focus on refining my communication skills — especially in writing — to ensure that customers feel truly supported, understood, and valued. I’ll be studying what makes a message not only informative, but also empathetic and reassuring.
-
-I also intend to go deeper into the official documentation, and review past tickets to identify areas where I can improve my approach or better understand edge cases I haven’t encountered yet.
-
-Another key point is staying in close contact with my supervisor to understand the team’s priorities, and to be available where I’m most needed. For example, if data shows a pattern of high ticket volume at specific times, I’d be willing to adjust my schedule accordingly to better support the team.
-
-Finally, I’ll stay flexible and open to feedback, always ready to adapt to any new challenges or improvements the team needs.
 
