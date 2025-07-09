@@ -3,7 +3,7 @@
 
 Good morning, everyone. It’s a pleasure to meet you — I hope you’re all doing well.
 
-I’ll and share my screen so you can follow my presentation.  
+I’ll share my screen so you can follow my presentation.  
 Let me know once you can see it, please — could someone please confirm?
 
 My name is Charles, and as you may already know, I have been working here over the past two months.
