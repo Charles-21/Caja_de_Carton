@@ -38,4 +38,14 @@ Lo que sucede no se ve, no se oye, no se nombra.
 Solo ocurre.  
 Y después, ni eso
 
+---
+### _Baudelaire
+
+Cuando tenía 17 años, me fascinaba la poesía de Charles Baudelaire. Podía salir a cualquier lugar habiendo olvidado cosas tan básicas como el cambio para un pasaje, pero jamás sin mi ejemplar preferido de _Las flores del mal_, en la traducción menos prestigiosa de entonces: la de la editorial Tomo. Sus versos poseían una cadencia estilística casi diabólica; al leerlo, sentía que estaba ante la creación más grande del hombre, comparable con las composiciones barrocas de Tartini o los caprichos de Paganini.
+
+Siempre pensé que su obra era fruto de la embriaguez más monumental y memorable a la que pudo entregarse un hombre que camina por un mundo que en nada lo comprende, pero que, siendo dueño de sus anhelos, es capaz de vencer y morir como un hombre sin rencor, sin las heridas de un mundo tan hostil.
+
+En una entrevista, Roberto Bolaño menciona la manera tan soberana en que Baudelaire se apropia de su técnica y cómo es plenamente consciente del uso de todos sus recursos creativos. Lo contrasta con la jovialidad de Arthur Rimbaud, de quien resalta ese ímpetu que sólo los poetas de su edad pueden tener. Y si bien cualquier escritor —hasta el más mediocre— puede tener una somera idea de "el éxtasis", sólo aquellos tan desdichados como Rimbaud pueden manipularlo y desahogarlo en versos que revelan la fragilidad y, al final de cuentas (pienso yo), la condición humana.
+
+
 
