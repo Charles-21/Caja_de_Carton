@@ -35,5 +35,18 @@ Una vez hallado el título de Campobello, indagó entre otros libros de la llama
 
 Pero la hora de la función se acercaba. Pospuso la búsqueda para su próximo martes. Esa semana, leyó el libro de Nellie Campobello en PDF desde su celular, en ratos muertos del trabajo, en el metro, o mientras comía solo en alguna banca.
 
+---
+Pero llegó la hora de la función. Tendría que posponer la búsqueda de algún título que le ayudara a recrear en su imaginación aquellas amplias tierras recorridas a caballo, descritas en las viñetas que Nellie habría plasmado en la obra que tan alegremente descubrió
+
+Los seis días laborales los pasó, como de costumbre, contemplando en sus horas libres la congestionada zona conurbada de Monterrey a través del dieciseisavo piso del edificio en el que trabajaba. Una construcción que, como tantas otras, le chupaba toda el agua y la habitabilidad a lo que antes fueran colonias populares y ranchos. 
+
+Visualizaba una dinámica atroz que exprimía cada recurso de la tierra y que en pesadillas se le figuraba como una bola inmensa de podredumbre que crecía sin límite aún cuando su terror infantil se transmutaba en triste resignación y huecos abismales en su pecho mudo. Recordó el vértigo que le producían los números grandes y el trauma que adquirió de niño cuando un amigo de mayor edad le recomendó multiplicar el número dos por sí mismo tantas veces como su agilidad mental le permitiera. La noche de aquel día, habiendo llegado torpemente al 16384 despertó angustiado y su mamá le preguntó si alguien lo había molestado en la escuela.
+
+Sumido en esos recuerdos, Hilario seguía con la mirada a unos trabajadores que impermeabilizaban el techo de un edificio de departamentos de los cuales jamás podrían adquirir uno, una señora realizaba aseo en otro, unos trabajadores reparaban tuberías de las instalaciones de gas de un centro comercial. Aún cuando los vidrios le aislaban del ruido, el tráfico le parecía igual de asfixiante. 
+
+Trataba de mantener su concentración a pesar de que su compañero se carcajeaba desagradablemente mientras veía algo en Youtube y devoraba su segunda bolsa de rufles. Lamentaba la condición de la silla en la que este se recargaba y admiraba su fortaleza ante el peso de su desparramado compañero quien no parecía tener ningún respeto por ella ni por nadie a su alrededor pues eructaba ampliamente emanando un olor que parecía que le habían cagado en la boca. Hilario se preguntaba si este sujeto era feliz y si, habiendo satisfecho sus obesas necesidades, éste se denominaría una persona plena. 
+
+¿Hilario habría de aspirar a eso para sentirse mejor? ¿Ir por unos rufles y una coca y ver algún gameplay en Youtube? Los carros andaban, las personas corrían, los vagos mendigaban, la ciudad era dinámica y se preguntaba si todo ello tenía algún sentido biológico. Si, al regresar el tiempo y encender de nuevo el andar de la humanidad, volveríamos a llegar a esta misma ciudad
+
 
 
