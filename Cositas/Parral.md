@@ -52,7 +52,7 @@ Una tarde, ya de salida, Omar se quejaba del noticiero, que una vez más abría 
 
 Otra compañera, Sara, tuvo una rabieta a causa de una manifestación civil que bloqueó parte de su trayecto al trabajo. Gritaba, indignada, por haber tenido que caminar un buen tramo.
 
-A Hilario le irritaba profundamente la nula tolerancia y la total ausencia de empatía de sus compañeros, tan cómodamente instalados en su cotidianidad. En su mente, respondía al quejoso del clima que quizá el calor del mediodía no era culpa del clima, sino del grueso colchón de grasa que lo envolvía, y que sólo se enfriaba al precio del derroche eléctrico del aire acondicionado. A Sara la imaginaba dándole la razón con gesto comprensivo, mientras pensaba que caminar un poco no le vendría mal a su salud cardíaca —aunque quizás no tanto a sus castigadas rodillas.
+A Hilario le irritaba profundamente la nula tolerancia y la total ausencia de empatía de sus compañeros, tan cómodamente instalados en su cotidianidad. En su mente, respondía al quejoso del clima que quizá el calor del mediodía no era culpa del clima, sino del grueso colchón de grasa que lo envolvía, y que sólo se enfriaba al precio del derroche eléctrico del aire acondicionado. A Sara le daba la razón con gesto comprensivo, mientras pensaba que caminar un poco no le vendría mal a su salud cardíaca —aunque quizás no tanto a sus castigadas rodillas.
 
 
 
