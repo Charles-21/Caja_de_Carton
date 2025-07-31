@@ -33,11 +33,9 @@ Así su mejor refugio, el más certero y consistente, dejarse someter al azar de
 
 Una vez hallado el título de Campobello, indagó entre otros libros de la llamada Novela Revolucionaria. El pasillo donde alimentaba ese impulso, se encontraba junto a otro dedicado a historia y geografía. Le pareció natural acompañar la lectura de _Cartucho_ con algún texto más explícito sobre las regiones del norte de Durango y el estado de Chihuahua.
 
-Pero la hora de la función se acercaba. Pospuso la búsqueda para su próximo martes. Esa semana, leyó el libro de Nellie Campobello en PDF desde su celular, en ratos muertos del trabajo, en el metro, o mientras comía solo en alguna banca.
-
----
 Pero llegó la hora de la función. Tendría que posponer la búsqueda de algún título que le ayudara a recrear en su imaginación aquellas amplias tierras recorridas a caballo, descritas en las viñetas que Nellie habría plasmado en la obra que tan alegremente descubrió.
 
+---
 Los seis días laborales los pasó, como de costumbre, contemplando en sus ratos libres la congestionada zona conurbada de Monterrey desde el dieciseisavo piso del edificio donde trabajaba. Una construcción que, como tantas otras, le absorbía toda el agua y la habitabilidad a lo que antes fueron colonias populares y ranchos, no muy distintos al Parral descrito por Campobello.
 
 Visualizaba una dinámica atroz que exprimía cada recurso de la tierra y que, en sus pesadillas, se le figuraba como una bola inmensa de podredumbre que crecía sin límite, incluso cuando su terror infantil se transmutaba en triste resignación y en huecos abismales en su pecho mudo. Recordó el vértigo que le producían los números grandes y el trauma que adquirió de niño cuando un amigo mayor le recomendó multiplicar el número dos por sí mismo tantas veces como su agilidad mental lo permitiera. Aquella noche, tras haber llegado torpemente al 16,384, despertó angustiado, y su madre le preguntó si alguien lo había molestado en la escuela.
