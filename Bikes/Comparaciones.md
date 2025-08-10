@@ -8,5 +8,5 @@
 | Commencal Meta HT AM | 64°    | RockShox 35 Silver 150mm  | SX 12v, 11-50t    | SRAM Level, 2 pistons, rotores 180 mm  | Maxxis disector, 29/27.5x2.6"   | $33,000 |
 | Marin San Quentin 2  | 64°    | X-Fusion  140mm           | Deore 11v, 11-51t | Tektro M535, 4 pistons, rotores 180 mm | Vee Tire Co, Flow Snap, 29x2.6" | $29,239 |
 | Trek Roscoe 6        | 65°    | SR Suntour XCR 34, 140mm  | Deore 12v, 10-51t | MT200                                  | Bontrager 29x2.6"               | $33,600 |
-| Rocky Mountain Growler        | 64°    | SR Suntour XCR 34, 130mm  | Deore 12v, 10-51t | MT200                                  | Bontrager 29x2.6"               | $33,600 |
+| Rocky Mountain Growler        | 64°    | SR Suntour XCR 34, 130mm  | ... | ...                                  | Maxxis 29x2.6"               | ... |
 
